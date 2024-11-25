@@ -46,7 +46,7 @@ password : abc123
 3. Klik tombol "Deteksi" untuk mendapatkan hasil prediksi.
    
 # Struktur Proyek
-..\capstone-project
+..\SMS_Fraud_Detection
 
     README.md                           # Penjelasan project
     dataset_sms_spam_v1.csv             # Raw dataset
