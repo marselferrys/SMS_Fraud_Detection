@@ -10,8 +10,8 @@ def clear_cache():
         st.session_state.pop(key)
 
 # --- USER AUTHENTICATION ---
-names = ["Aditya Priadi Pradana", "Marchel Ferry Timoteus S", "Riski Nur Rohman", "Linda Septiana", "Monixca Fernandes Awangga Tirta"]
-usernames = ["appradana", "mfsamosir", "rnrohman", "lsana", "mfatirta"]
+names = ["Marchel Ferry Timoteus S"]
+usernames = ["mfsamosir"]
 
 # load hashed passwords
 file_path = Path(__file__).parent / "hashed_pw.pkl"
@@ -38,7 +38,6 @@ if authentication_status:
 
     # --- MAIN PROGRAM ---
     
-
     # Streamlit App
       
      # load save model   
