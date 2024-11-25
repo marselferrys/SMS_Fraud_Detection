@@ -48,14 +48,15 @@ password : abc123
 # Struktur Proyek
 ..\capstone-project
 
-    README.md                        # Penjelasan project
-    dataset_sms_spam_v1.csv          # Raw dataset
-    key_norm.csv                     # Kata kunci utk kata singkatan
-    model_fraud.sav                  # Model deteksi penipuan yang sudah dilatih
-    new_selected_feature_tf-idf.sav  # pre-defined vocabulary 
-    nlp.ipynb                        # File jupyter notebook model machine learning
-    requirements.txt                 # Daftar dependensi python
-    stream_nlp.py                    # File utama Streamlit
-    generate_keys.py                 # Generate hashed key program
-    hashed_pw.pkl                    # Hashed password user authentification
+    README.md                           # Penjelasan project
+    dataset_sms_spam_v1.csv             # Raw dataset
+    key_norm.csv                        # Kata kunci utk kata singkatan
+    model_fraud.sav                     # Model deteksi penipuan yang sudah dilatih
+    new_selected_feature_tf-idf.sav     # pre-defined vocabulary 
+    Fraud_SMS_Detection Notebook.ipynb  # File jupyter notebook model machine learning
+    SMS Fraud Detection App.ipynb       # File jupyter notebook testing streamlit app on local
+    requirements.txt                    # Daftar dependensi python
+    stream_nlp.py                       # File utama Streamlit
+    generate_keys.py                    # Generate hashed key program
+    hashed_pw.pkl                       # Hashed password user authentification
 
