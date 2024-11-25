@@ -7,7 +7,6 @@ Proyek ini adalah aplikasi web untuk mendeteksi SMS penipuan menggunakan teknik 
 - Instalasi
 - Penggunaan
 - Struktur Proyek
-- Kontribusi
 
 # Deskripsi
 Aplikasi ini dirancang untuk membantu pengguna mendeteksi SMS penipuan dengan cepat dan mudah. Dengan memasukkan teks SMS, aplikasi akan memberikan prediksi apakah SMS tersebut merupakan penipuan atau tidak berdasarkan model machine learning yang telah dilatih.
@@ -24,7 +23,7 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 git clone https://github.com/marselferrys/SMS_Fraud_Detection
 
 2. Masuk ke direktori proyek:
-cd capstone-project
+cd SMS_Fraud_Detection
 
 3. Buat dan aktifkan virtual environment (opsional tapi disarankan):
 python -m venv env
@@ -57,6 +56,4 @@ password : abc123
     SMS Fraud Detection App.ipynb       # File jupyter notebook testing streamlit app on local
     requirements.txt                    # Daftar dependensi python
     stream_nlp.py                       # File utama Streamlit
-    generate_keys.py                    # Generate hashed key program
-    hashed_pw.pkl                       # Hashed password user authentification
 
