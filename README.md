@@ -1,4 +1,6 @@
-#  Deteksi SMS Penipuan by Marchel Ferry Timoteus S(121140195)
+#  Deteksi SMS Penipuan by 
+Marchel Ferry Timoteus S(121140195)
+Yos Berman Panjaitan(121140185)
 Proyek ini adalah aplikasi web untuk mendeteksi SMS penipuan menggunakan teknik machine learning. Aplikasi ini dibangun dengan menggunakan Streamlit dan dapat diakses di link ini.
 
 # Daftar Isi
