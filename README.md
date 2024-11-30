@@ -53,7 +53,6 @@ password : abc123
     model_fraud.sav                     # Model deteksi penipuan yang sudah dilatih
     new_selected_feature_tf-idf.sav     # pre-defined vocabulary 
     Fraud_SMS_Detection Notebook.ipynb  # File jupyter notebook model machine learning
-    SMS Fraud Detection App.ipynb       # File jupyter notebook testing streamlit app on local
     requirements.txt                    # Daftar dependensi python
     stream_nlp.py                       # File utama Streamlit
 
